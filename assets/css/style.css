@@ -1,0 +1,55 @@
+body {
+	background-image: url(../images/bg1.jpg);
+	background-size: 100%;
+}
+
+#header {
+	height: 45px;
+}
+
+#container {
+	background-color: #006400;
+	border: 15px outset #a0522d;
+	height: 650px;
+
+}
+
+#title {
+	text-align: center;
+	color: yellow;
+
+}
+
+#title h1 {
+	font-size: 50px;
+	font-weight: bold;
+	border-bottom: 3px solid #a0522d;
+}
+
+#timer {
+	border-bottom: 3px solid #a0522d;
+	text-align: center;
+	color: yellow;
+	font-size: 20px;
+}
+
+#question {
+	display: block;
+	color: yellow;
+	text-align: center;
+	height: 110px;
+	margin-top: 2%;
+}
+
+.answerButtons {
+	margin-left: 127px;
+	margin-top: 86px;
+	height: 62px;
+	width: 315px;
+	font-size: 24px;
+	color: yellow;
+}
+
+#footer {
+	height: 15px;
+}
